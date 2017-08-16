@@ -1,0 +1,9 @@
+export KEY_SIZE=1024 # Длинна ключа
+export KEY_EXPIRE=3650 # Срок действия ключа в днях
+
+# описание сертификатов по-умолчанию
+export KEY_COUNTRY="RU"
+export KEY_PROVINCE="RU"
+export KEY_CITY="Moscow"
+export KEY_ORG="http://bitbucket.org"
+export KEY_EMAIL="org@example.com"
